@@ -12,7 +12,7 @@ Aplicativo CRUD para controle de tarefas
 
 1. Clone o repositório do GitHub.
 2. Abra o projeto no seu editor de código.
-3. Instale o pacote do projeto com npm install, tanto do backend quanto do front-end.
+3. Instale o pacote do projeto com npm install, tanto do backend quanto do front-end, com em sem redux.
 4. Depois de instalado os pacotes, basta dar um npm start para iniciar o projeto no front e backend, respectivamente na porta localhost:8080 e localhost:3003.
 
 # Créditos
